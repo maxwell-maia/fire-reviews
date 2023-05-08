@@ -3,5 +3,6 @@
 Fire Reviews used to be called PowerNotes PAT
 
 
-CHECK OUT THE WIKI!!!
-Please check out the Wiki on this repository
+THIS REPOSITORY HAS A WIKI
+
+CHECK OUT THE FIRE REVIEWS WIKI ON GITHUB
