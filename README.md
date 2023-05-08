@@ -4,7 +4,7 @@
 
 THIS REPOSITORY HAS A WIKI
 
-Check out the Fire reviews Wiki on GitHub
+* Check out the Fire reviews Wiki on GitHub *
 
 ==============================================
 
